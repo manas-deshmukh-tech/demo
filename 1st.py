@@ -1,0 +1,1 @@
+print("Number is odd:", 5 % 2 != 0)
